@@ -56,6 +56,7 @@ if (!defined("WHMCS")) {
  *
  * @return array
  */
+ 
 function mf_domain_search_config()
 {
     return [
